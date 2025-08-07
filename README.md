@@ -12,7 +12,7 @@ https://github.com/manuelcoca/roadmap
 ### Digital Space 💡
 Check out my digital space where I collect knowledge, notes and thoughts:
 
-[Zettelkasten](https://github.com/manuelcoca/digital-zettelkasten
+[Zettelkasten](https://github.com/manuelcoca/digital-zettelkasten)
 
 There, I'm constantly learning and evaluating my ideas.
 

@@ -9,7 +9,7 @@ Check out my personal roadmap:
 
 https://github.com/manuelcoca/roadmap
 
-### Digital Space 💡
+### Digital Zettelkasten 💡
 Check out my digital space where I collect knowledge, notes and thoughts:
 
 [Zettelkasten](https://github.com/manuelcoca/digital-zettelkasten)

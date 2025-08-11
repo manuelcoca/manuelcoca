@@ -19,4 +19,4 @@ There, I'm constantly learning and evaluating my ideas.
 > I stand by my thoughts, but I’m not married to them.
 
 ### Get in Touch 💌
-Let's create something together 🌟 Hit me up!
+Let's connect 🌟 Hit me up!

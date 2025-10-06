@@ -1,22 +1,13 @@
 ## Hello, World! 👋
 
-Manuel here, father and coffee-fueled software engineer.
-
-I share my work and knowledge, feel free to collaborate.
-
-### Skills 🎯
-Check out my personal roadmap:
-
-https://github.com/manuelcoca/roadmap
+I share some of my work and knowledge here.
 
 ### Digital Zettelkasten 💡
-Check out my digital space where I collect knowledge, notes and thoughts:
+Check out my digital zettelkasten where I collect knowledge, notes and thoughts:
 
 [Zettelkasten](https://github.com/manuelcoca/digital-zettelkasten)
 
 There, I'm constantly learning and evaluating my ideas.
 
-> I stand by my thoughts, but I’m not married to them.
-
 ### Get in Touch 💌
-Let's connect 🌟 Hit me up!
+Let's connect 🌟 Feel free to reach out!
